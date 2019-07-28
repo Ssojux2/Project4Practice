@@ -1,4 +1,4 @@
-# Projects for students 
+# Projects
 * Final update: 2019. 07. 28.
 * All right reserved @ ModuLabs 2019
 
