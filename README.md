@@ -96,4 +96,4 @@
 
 ## Authors
 * [Il Gu Yi](https://github.com/ilguyi)
-* [Junseop So](https://github.com/ssojux2) - update codes (CNN - a training part) 2019. 07. 28
+* [Junseop So](https://github.com/ssojux2) - update(CNN - a training part)
